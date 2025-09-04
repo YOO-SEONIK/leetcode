@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/YOO-SEONIK/Sonic/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YOO-SEONIK/Sonic/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/YOO-SEONIK/Sonic/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/YOO-SEONIK/Sonic/tree/master/0032-longest-valid-parentheses) |
 ## String Matching
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/YOO-SEONIK/Sonic/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/YOO-SEONIK/Sonic/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/YOO-SEONIK/Sonic/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/YOO-SEONIK/Sonic/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/YOO-SEONIK/Sonic/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/YOO-SEONIK/Sonic/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/YOO-SEONIK/Sonic/tree/master/0094-binary-tree-inorder-traversal) |
 ## Tree
 |  |
