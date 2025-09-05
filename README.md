@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/YOO-SEONIK/Sonic/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/YOO-SEONIK/Sonic/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/YOO-SEONIK/Sonic/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0095-unique-binary-search-trees-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YOO-SEONIK/Sonic/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0095-unique-binary-search-trees-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YOO-SEONIK/Sonic/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0095-unique-binary-search-trees-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/YOO-SEONIK/Sonic/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/YOO-SEONIK/Sonic/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0095-unique-binary-search-trees-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -259,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/YOO-SEONIK/Sonic/tree/master/0062-unique-paths) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
