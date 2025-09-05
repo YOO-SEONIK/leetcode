@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/YOO-SEONIK/Sonic/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/YOO-SEONIK/Sonic/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/YOO-SEONIK/Sonic/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/YOO-SEONIK/Sonic/tree/master/0088-merge-sorted-array) |
 ## Hash Table
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/YOO-SEONIK/Sonic/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/YOO-SEONIK/Sonic/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/YOO-SEONIK/Sonic/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/YOO-SEONIK/Sonic/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/YOO-SEONIK/Sonic/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/YOO-SEONIK/Sonic/tree/master/0070-climbing-stairs) |
 ## Two Pointers
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/YOO-SEONIK/Sonic/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/YOO-SEONIK/Sonic/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/YOO-SEONIK/Sonic/tree/master/0048-rotate-image) |
 ## Monotonic Stack
 |  |
 | ------- |
