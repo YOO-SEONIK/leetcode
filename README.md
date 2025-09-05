@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/YOO-SEONIK/Sonic/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/YOO-SEONIK/Sonic/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/YOO-SEONIK/Sonic/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/YOO-SEONIK/Sonic/tree/master/0258-add-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/YOO-SEONIK/Sonic/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/YOO-SEONIK/Sonic/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/YOO-SEONIK/Sonic/tree/master/0258-add-digits) |
 ## Combinatorics
 |  |
 | ------- |
@@ -377,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/YOO-SEONIK/Sonic/tree/master/0181-employees-earning-more-than-their-managers) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/YOO-SEONIK/Sonic/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
