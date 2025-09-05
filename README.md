@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/YOO-SEONIK/Sonic/tree/master/0228-summary-ranges) |
 | [0349-intersection-of-two-arrays](https://github.com/YOO-SEONIK/Sonic/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/YOO-SEONIK/Sonic/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/YOO-SEONIK/Sonic/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/YOO-SEONIK/Sonic/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/YOO-SEONIK/Sonic/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/YOO-SEONIK/Sonic/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/YOO-SEONIK/Sonic/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/YOO-SEONIK/Sonic/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -210,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/YOO-SEONIK/Sonic/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/YOO-SEONIK/Sonic/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/YOO-SEONIK/Sonic/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Stack
 |  |
 | ------- |
