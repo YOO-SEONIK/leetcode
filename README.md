@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/YOO-SEONIK/Sonic/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/YOO-SEONIK/Sonic/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0219-contains-duplicate-ii) |
+| [0290-word-pattern](https://github.com/YOO-SEONIK/Sonic/tree/master/0290-word-pattern) |
 ## Math
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/YOO-SEONIK/Sonic/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/YOO-SEONIK/Sonic/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/YOO-SEONIK/Sonic/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/YOO-SEONIK/Sonic/tree/master/0290-word-pattern) |
 ## String Matching
 |  |
 | ------- |
