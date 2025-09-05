@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/YOO-SEONIK/Sonic/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/YOO-SEONIK/Sonic/tree/master/0389-find-the-difference) |
+| [0409-longest-palindrome](https://github.com/YOO-SEONIK/Sonic/tree/master/0409-longest-palindrome) |
 ## Math
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/YOO-SEONIK/Sonic/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/YOO-SEONIK/Sonic/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/YOO-SEONIK/Sonic/tree/master/0389-find-the-difference) |
+| [0409-longest-palindrome](https://github.com/YOO-SEONIK/Sonic/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/YOO-SEONIK/Sonic/tree/master/0412-fizz-buzz) |
 ## String Matching
 |  |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/YOO-SEONIK/Sonic/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/YOO-SEONIK/Sonic/tree/master/0055-jump-game) |
+| [0409-longest-palindrome](https://github.com/YOO-SEONIK/Sonic/tree/master/0409-longest-palindrome) |
 ## Backtracking
 |  |
 | ------- |
