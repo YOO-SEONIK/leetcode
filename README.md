@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YOO-SEONIK/Sonic/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/YOO-SEONIK/Sonic/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/YOO-SEONIK/Sonic/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/YOO-SEONIK/Sonic/tree/master/0202-happy-number) |
 ## Math
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/YOO-SEONIK/Sonic/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/YOO-SEONIK/Sonic/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/YOO-SEONIK/Sonic/tree/master/0096-unique-binary-search-trees) |
+| [0202-happy-number](https://github.com/YOO-SEONIK/Sonic/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/YOO-SEONIK/Sonic/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/YOO-SEONIK/Sonic/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/YOO-SEONIK/Sonic/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/YOO-SEONIK/Sonic/tree/master/0202-happy-number) |
 ## Linked List
 |  |
 | ------- |
