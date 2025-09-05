@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/YOO-SEONIK/Sonic/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/YOO-SEONIK/Sonic/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/YOO-SEONIK/Sonic/tree/master/0125-valid-palindrome) |
+| [0257-binary-tree-paths](https://github.com/YOO-SEONIK/Sonic/tree/master/0257-binary-tree-paths) |
 ## String Matching
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/YOO-SEONIK/Sonic/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/YOO-SEONIK/Sonic/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/YOO-SEONIK/Sonic/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/YOO-SEONIK/Sonic/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/YOO-SEONIK/Sonic/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/YOO-SEONIK/Sonic/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/YOO-SEONIK/Sonic/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/YOO-SEONIK/Sonic/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/YOO-SEONIK/Sonic/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/YOO-SEONIK/Sonic/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/YOO-SEONIK/Sonic/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/YOO-SEONIK/Sonic/tree/master/0257-binary-tree-paths) |
 ## Sliding Window
 |  |
 | ------- |
@@ -293,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/YOO-SEONIK/Sonic/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0095-unique-binary-search-trees-ii) |
+| [0257-binary-tree-paths](https://github.com/YOO-SEONIK/Sonic/tree/master/0257-binary-tree-paths) |
 ## Divide and Conquer
 |  |
 | ------- |
