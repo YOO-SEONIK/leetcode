@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YOO-SEONIK/Sonic/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/YOO-SEONIK/Sonic/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/YOO-SEONIK/Sonic/tree/master/0228-summary-ranges) |
 ## Hash Table
 |  |
 | ------- |
