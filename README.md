@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/YOO-SEONIK/Sonic/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/YOO-SEONIK/Sonic/tree/master/0412-fizz-buzz) |
 | [0492-construct-the-rectangle](https://github.com/YOO-SEONIK/Sonic/tree/master/0492-construct-the-rectangle) |
+| [0507-perfect-number](https://github.com/YOO-SEONIK/Sonic/tree/master/0507-perfect-number) |
 ## Two Pointers
 |  |
 | ------- |
