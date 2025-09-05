@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/YOO-SEONIK/Sonic/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/YOO-SEONIK/Sonic/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/YOO-SEONIK/Sonic/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/YOO-SEONIK/Sonic/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/YOO-SEONIK/Sonic/tree/master/0088-merge-sorted-array) |
 ## Hash Table
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/YOO-SEONIK/Sonic/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/YOO-SEONIK/Sonic/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/YOO-SEONIK/Sonic/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/YOO-SEONIK/Sonic/tree/master/0054-spiral-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -189,4 +191,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/YOO-SEONIK/Sonic/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/YOO-SEONIK/Sonic/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
