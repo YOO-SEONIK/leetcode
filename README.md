@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/YOO-SEONIK/Sonic/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/YOO-SEONIK/Sonic/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/YOO-SEONIK/Sonic/tree/master/0412-fizz-buzz) |
+| [0492-construct-the-rectangle](https://github.com/YOO-SEONIK/Sonic/tree/master/0492-construct-the-rectangle) |
 ## Two Pointers
 |  |
 | ------- |
