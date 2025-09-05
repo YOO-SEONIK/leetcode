@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/YOO-SEONIK/Sonic/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YOO-SEONIK/Sonic/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/YOO-SEONIK/Sonic/tree/master/0136-single-number) |
+| [0219-contains-duplicate-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/YOO-SEONIK/Sonic/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/YOO-SEONIK/Sonic/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/YOO-SEONIK/Sonic/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0219-contains-duplicate-ii) |
 ## Math
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/YOO-SEONIK/Sonic/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/YOO-SEONIK/Sonic/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/YOO-SEONIK/Sonic/tree/master/0076-minimum-window-substring) |
+| [0219-contains-duplicate-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0219-contains-duplicate-ii) |
 ## Greedy
 |  |
 | ------- |
