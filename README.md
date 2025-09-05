@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/YOO-SEONIK/Sonic/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/YOO-SEONIK/Sonic/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/YOO-SEONIK/Sonic/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/YOO-SEONIK/Sonic/tree/master/0225-implement-stack-using-queues) |
 ## Tree
 |  |
 | ------- |
@@ -383,4 +384,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/YOO-SEONIK/Sonic/tree/master/0258-add-digits) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/YOO-SEONIK/Sonic/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/YOO-SEONIK/Sonic/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
