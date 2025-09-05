@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/YOO-SEONIK/Sonic/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/YOO-SEONIK/Sonic/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/YOO-SEONIK/Sonic/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/YOO-SEONIK/Sonic/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/YOO-SEONIK/Sonic/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/YOO-SEONIK/Sonic/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/YOO-SEONIK/Sonic/tree/master/0389-find-the-difference) |
 ## String Matching
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/YOO-SEONIK/Sonic/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/YOO-SEONIK/Sonic/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/YOO-SEONIK/Sonic/tree/master/0389-find-the-difference) |
 ## Stack
 |  |
 | ------- |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/YOO-SEONIK/Sonic/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/YOO-SEONIK/Sonic/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/YOO-SEONIK/Sonic/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/YOO-SEONIK/Sonic/tree/master/0389-find-the-difference) |
 ## Matrix
 |  |
 | ------- |
