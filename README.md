@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/YOO-SEONIK/Sonic/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/YOO-SEONIK/Sonic/tree/master/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/YOO-SEONIK/Sonic/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/YOO-SEONIK/Sonic/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/YOO-SEONIK/Sonic/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/YOO-SEONIK/Sonic/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/YOO-SEONIK/Sonic/tree/master/0068-text-justification) |
 ## String Matching
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/YOO-SEONIK/Sonic/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/YOO-SEONIK/Sonic/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/YOO-SEONIK/Sonic/tree/master/0068-text-justification) |
 ## Combinatorics
 |  |
 | ------- |
