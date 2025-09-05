@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/YOO-SEONIK/Sonic/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/YOO-SEONIK/Sonic/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/YOO-SEONIK/Sonic/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/YOO-SEONIK/Sonic/tree/master/0096-unique-binary-search-trees) |
 ## Two Pointers
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/YOO-SEONIK/Sonic/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/YOO-SEONIK/Sonic/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/YOO-SEONIK/Sonic/tree/master/0096-unique-binary-search-trees) |
 ## Memoization
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YOO-SEONIK/Sonic/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/YOO-SEONIK/Sonic/tree/master/0096-unique-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YOO-SEONIK/Sonic/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/YOO-SEONIK/Sonic/tree/master/0096-unique-binary-search-trees) |
 ## Sliding Window
 |  |
 | ------- |
@@ -267,4 +271,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/YOO-SEONIK/Sonic/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
