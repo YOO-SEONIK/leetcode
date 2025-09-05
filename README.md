@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YOO-SEONIK/Sonic/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/YOO-SEONIK/Sonic/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/YOO-SEONIK/Sonic/tree/master/0506-relative-ranks) |
 ## Hash Table
 |  |
 | ------- |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/YOO-SEONIK/Sonic/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/YOO-SEONIK/Sonic/tree/master/0389-find-the-difference) |
+| [0506-relative-ranks](https://github.com/YOO-SEONIK/Sonic/tree/master/0506-relative-ranks) |
 ## Stack
 |  |
 | ------- |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/YOO-SEONIK/Sonic/tree/master/0023-merge-k-sorted-lists) |
+| [0506-relative-ranks](https://github.com/YOO-SEONIK/Sonic/tree/master/0506-relative-ranks) |
 ## Merge Sort
 |  |
 | ------- |
