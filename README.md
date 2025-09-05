@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/YOO-SEONIK/Sonic/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/YOO-SEONIK/Sonic/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/YOO-SEONIK/Sonic/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/YOO-SEONIK/Sonic/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/YOO-SEONIK/Sonic/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/YOO-SEONIK/Sonic/tree/master/0088-merge-sorted-array) |
 ## Hash Table
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/YOO-SEONIK/Sonic/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/YOO-SEONIK/Sonic/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/YOO-SEONIK/Sonic/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/YOO-SEONIK/Sonic/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/YOO-SEONIK/Sonic/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/YOO-SEONIK/Sonic/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/YOO-SEONIK/Sonic/tree/master/0055-jump-game) |
 ## Backtracking
 |  |
 | ------- |
