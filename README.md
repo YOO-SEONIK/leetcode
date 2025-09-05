@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/YOO-SEONIK/Sonic/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/YOO-SEONIK/Sonic/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/YOO-SEONIK/Sonic/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/YOO-SEONIK/Sonic/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/YOO-SEONIK/Sonic/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/YOO-SEONIK/Sonic/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/YOO-SEONIK/Sonic/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/YOO-SEONIK/Sonic/tree/master/0412-fizz-buzz) |
 ## String Matching
 |  |
 | ------- |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/YOO-SEONIK/Sonic/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/YOO-SEONIK/Sonic/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/YOO-SEONIK/Sonic/tree/master/0412-fizz-buzz) |
 ## Combinatorics
 |  |
 | ------- |
