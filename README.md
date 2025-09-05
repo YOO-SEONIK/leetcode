@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/YOO-SEONIK/Sonic/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/YOO-SEONIK/Sonic/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/YOO-SEONIK/Sonic/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/YOO-SEONIK/Sonic/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/YOO-SEONIK/Sonic/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/YOO-SEONIK/Sonic/tree/master/0060-permutation-sequence) |
+| [0203-remove-linked-list-elements](https://github.com/YOO-SEONIK/Sonic/tree/master/0203-remove-linked-list-elements) |
 ## String
 |  |
 | ------- |
