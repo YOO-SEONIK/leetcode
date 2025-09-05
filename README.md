@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/YOO-SEONIK/Sonic/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/YOO-SEONIK/Sonic/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/YOO-SEONIK/Sonic/tree/master/0125-valid-palindrome) |
 ## Linked List
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/YOO-SEONIK/Sonic/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/YOO-SEONIK/Sonic/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/YOO-SEONIK/Sonic/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/YOO-SEONIK/Sonic/tree/master/0125-valid-palindrome) |
 ## String Matching
 |  |
 | ------- |
