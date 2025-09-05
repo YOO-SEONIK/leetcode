@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YOO-SEONIK/Sonic/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/YOO-SEONIK/Sonic/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YOO-SEONIK/Sonic/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/YOO-SEONIK/Sonic/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/YOO-SEONIK/Sonic/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/YOO-SEONIK/Sonic/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/YOO-SEONIK/Sonic/tree/master/0136-single-number) |
 ## Matrix
 |  |
 | ------- |
