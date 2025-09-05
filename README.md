@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/YOO-SEONIK/Sonic/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/YOO-SEONIK/Sonic/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/YOO-SEONIK/Sonic/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/YOO-SEONIK/Sonic/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/YOO-SEONIK/Sonic/tree/master/0088-merge-sorted-array) |
 ## Hash Table
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YOO-SEONIK/Sonic/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/YOO-SEONIK/Sonic/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YOO-SEONIK/Sonic/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/YOO-SEONIK/Sonic/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/YOO-SEONIK/Sonic/tree/master/0088-merge-sorted-array) |
 ## Linked List
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/YOO-SEONIK/Sonic/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/YOO-SEONIK/Sonic/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/YOO-SEONIK/Sonic/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/YOO-SEONIK/Sonic/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/YOO-SEONIK/Sonic/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/YOO-SEONIK/Sonic/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/YOO-SEONIK/Sonic/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/YOO-SEONIK/Sonic/tree/master/0094-binary-tree-inorder-traversal) |
 ## Tree
 |  |
@@ -156,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/YOO-SEONIK/Sonic/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/YOO-SEONIK/Sonic/tree/master/0037-sudoku-solver) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/YOO-SEONIK/Sonic/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
