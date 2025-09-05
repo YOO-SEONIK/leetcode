@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/YOO-SEONIK/Sonic/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YOO-SEONIK/Sonic/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/YOO-SEONIK/Sonic/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/YOO-SEONIK/Sonic/tree/master/0191-number-of-1-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/YOO-SEONIK/Sonic/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/YOO-SEONIK/Sonic/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/YOO-SEONIK/Sonic/tree/master/0191-number-of-1-bits) |
 ## Matrix
 |  |
 | ------- |
