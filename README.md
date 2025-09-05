@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/YOO-SEONIK/Sonic/tree/master/0412-fizz-buzz) |
 | [0482-license-key-formatting](https://github.com/YOO-SEONIK/Sonic/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/YOO-SEONIK/Sonic/tree/master/0520-detect-capital) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/YOO-SEONIK/Sonic/tree/master/0521-longest-uncommon-subsequence-i) |
 ## String Matching
 |  |
 | ------- |
