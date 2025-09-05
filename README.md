@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/YOO-SEONIK/Sonic/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YOO-SEONIK/Sonic/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/YOO-SEONIK/Sonic/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/YOO-SEONIK/Sonic/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/YOO-SEONIK/Sonic/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YOO-SEONIK/Sonic/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/YOO-SEONIK/Sonic/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/YOO-SEONIK/Sonic/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/YOO-SEONIK/Sonic/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/YOO-SEONIK/Sonic/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/YOO-SEONIK/Sonic/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/YOO-SEONIK/Sonic/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/YOO-SEONIK/Sonic/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/YOO-SEONIK/Sonic/tree/master/0496-next-greater-element-i) |
 ## Simulation
 |  |
 | ------- |
