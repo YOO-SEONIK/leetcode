@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/YOO-SEONIK/Sonic/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/YOO-SEONIK/Sonic/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/YOO-SEONIK/Sonic/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/YOO-SEONIK/Sonic/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/YOO-SEONIK/Sonic/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/YOO-SEONIK/Sonic/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/YOO-SEONIK/Sonic/tree/master/0383-ransom-note) |
 ## String Matching
 |  |
 | ------- |
@@ -414,4 +416,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/YOO-SEONIK/Sonic/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/YOO-SEONIK/Sonic/tree/master/0232-implement-queue-using-stacks) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/YOO-SEONIK/Sonic/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
