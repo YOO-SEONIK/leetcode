@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/YOO-SEONIK/Sonic/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/YOO-SEONIK/Sonic/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/YOO-SEONIK/Sonic/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/YOO-SEONIK/Sonic/tree/master/0088-merge-sorted-array) |
 ## Hash Table
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/YOO-SEONIK/Sonic/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/YOO-SEONIK/Sonic/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/YOO-SEONIK/Sonic/tree/master/0046-permutations) |
 ## Divide and Conquer
 |  |
 | ------- |
