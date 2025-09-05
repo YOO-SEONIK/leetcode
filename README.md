@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/YOO-SEONIK/Sonic/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/YOO-SEONIK/Sonic/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/YOO-SEONIK/Sonic/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/YOO-SEONIK/Sonic/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/YOO-SEONIK/Sonic/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/YOO-SEONIK/Sonic/tree/master/0070-climbing-stairs) |
 ## Two Pointers
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/YOO-SEONIK/Sonic/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/YOO-SEONIK/Sonic/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/YOO-SEONIK/Sonic/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/YOO-SEONIK/Sonic/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/YOO-SEONIK/Sonic/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/YOO-SEONIK/Sonic/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/YOO-SEONIK/Sonic/tree/master/0054-spiral-matrix) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/YOO-SEONIK/Sonic/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
