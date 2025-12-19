@@ -9,4 +9,3 @@ class Solution:
         elif ans > 0:   ans = floor(ans)
             
         return int(ans)
-        
