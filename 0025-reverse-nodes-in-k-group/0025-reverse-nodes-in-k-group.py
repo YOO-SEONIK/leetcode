@@ -25,4 +25,4 @@ class Solution:
             temp.next = ListNode(res[i])
             temp = temp.next
         return node.next
-        
+    
